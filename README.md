@@ -1,4 +1,6 @@
-# Unit 11 Express Homework: Note Taker
+# Note Taker
+
+![note taker](Develop/public/assets/Image/Take_Note.gif)
 
 ## Description
 
